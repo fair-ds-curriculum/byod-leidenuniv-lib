@@ -4,3 +4,4 @@ Teaching material from Bring Your Own Data FAIRification workshops at Leiden Uni
 This pilot workshop targets Data Science PhD student with the aim to roll out to different disciplines within the coming year.
 
 Link out: https://www.library.universiteitleiden.nl/events/2019/06/bring-your-own-data-workshop
+Open Science Framwork: https://osf.io/8ecg2/
